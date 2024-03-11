@@ -1,6 +1,6 @@
 # 人脸抠图
 ## 1.运行环境
-ubuntu20.04<br> 
+ubuntu20.04, onnxruntime_cpu<br> 
 ## 2.输入以下指令<br> 
 cd ./build<br>  
 cmake ..<br>  
