@@ -1,0 +1,3 @@
+/app/我的项目/onnx_tutorial/onnx_matt/build/CMakeFiles/YourProjectName.dir
+/app/我的项目/onnx_tutorial/onnx_matt/build/CMakeFiles/edit_cache.dir
+/app/我的项目/onnx_tutorial/onnx_matt/build/CMakeFiles/rebuild_cache.dir
